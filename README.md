@@ -22,7 +22,7 @@ Para executar o projeto, basta fazer o clone do repositório e abrir o arquivo i
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto adaptado por Patrícia de Souza](https://github.com/patyfil/template.png), [baixá-lo](https://github.com/patyfil/javascript-canvas/main.zip) ou visualizá-lo em funcionamento em [link para o projeto em funcionamento]().
+Você pode [baixá-lo](https://github.com/patyfil/javascript-canvas/archive/refs/heads/main.zip) ou visualizá-lo em funcionamento em [link para o projeto em funcionamento]().
 
 ## 📚 Mais informações do curso
 
