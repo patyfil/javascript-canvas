@@ -4,6 +4,9 @@ O jogo desenvolvido foi um jogo para acertar o alvo na tela, assim que você con
 </br>
 <img src="img/template.jpg"/>
 
+Outro projeto do curso foi criar uma tela para desenho onde podemos selecionar a cor que queremos usar para pintar com o mouse.  
+<img src="img/template2.jpg"/>  
+
 Outros desenhos como alguns apresentados abaixo também foram criados durante o curso:  
 </br>
 <img width='30%' src="img/bandeira.png"/>  
