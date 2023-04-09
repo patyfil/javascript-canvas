@@ -4,10 +4,9 @@ O jogo desenvolvido foi um jogo para acertar o alvo na tela, assim que você con
 </br>
 <img src="img/template.jpg"/>
 
-Outro projeto do curso foi criar uma tela para desenho onde podemos selecionar a cor que queremos usar para pintar com o mouse.  
+Outro projeto do curso foi criar uma tela para desenho onde podemos selecionar a cor que queremos usar para pintar com o mouse. [Copie o código aqui](https://github.com/patyfil/javascript-canvas/blob/main/desenhar.html) 
 </br>
 <img src="img/template2.jpg"/>  
-[Copie o código aqui](https://github.com/patyfil/javascript-canvas/blob/main/desenhar.html)  
 
 Outros desenhos como alguns apresentados abaixo também foram criados durante o curso:  
 </br>
