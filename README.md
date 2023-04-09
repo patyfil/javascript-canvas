@@ -1,4 +1,17 @@
-# JavaScript e HTML: pratique lógica com desenhos, animações e um jogo
+<img src="img/template.png"/>  
+
+O jogo desenvolvido foi um jogo para acertar o alvo na tela, assim que você consegue clicar no centro do alvo, é disparado um pop-up na tela informando que o jogador acertou o alvo.  
+</br>
+<img src="img/template.jpg"/>
+
+Outros desenhos como alguns apresentados abaixo também foram criados durante o curso:  
+</br>
+<img width='30%' src="img/bandeira.png"/>  
+<img width='30%' src="img/creeper.png"/>  
+<img width='30%' src="img/formas.png"/>  
+<img width='30%' src="img/esquadro.png"/>  
+<img width='30%' src="img/fracao.png"/>  
+<img width='30%' src="img/grafico-barra.png"/>  
 
 Este projeto faz parte do curso de JavaScript e HTML da Alura.  
 A carga horária do curso é de 10 horas e seu conteúdo inclui:
