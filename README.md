@@ -38,7 +38,7 @@ Para executar o projeto, basta fazer o clone do repositório e abrir o arquivo i
 
 ## 📁 Acesso ao projeto
 
-Você pode [baixá-lo](https://github.com/patyfil/javascript-canvas/archive/refs/heads/main.zip) ou visualizá-lo em funcionamento em [link para o projeto em funcionamento]().
+Você pode [baixá-lo](https://github.com/patyfil/javascript-canvas/archive/refs/heads/main.zip) ou visualizá-lo em funcionamento em [link para o projeto em funcionamento](https://patyfil.github.io/javascript-canvas/).
 
 ## 📚 Mais informações do curso
 
