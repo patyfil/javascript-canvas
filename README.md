@@ -1,15 +1,15 @@
 <img src="img/template.png"/>  
 
 O jogo desenvolvido foi um jogo para acertar o alvo na tela, assim que você consegue clicar no centro do alvo, é disparado um pop-up na tela informando que o jogador acertou o alvo.  
-</br>
+<br/>
 <img src="img/template.jpg"/>
 
-Outro projeto do curso foi criar uma tela para desenho onde podemos selecionar a cor que queremos usar para pintar com o mouse. [Copie o código aqui](https://github.com/patyfil/javascript-canvas/blob/main/desenhar.html) 
-</br>
+Outro projeto do curso foi criar uma tela para desenho onde podemos selecionar a cor que queremos usar para pintar com o mouse. [Copie o código aqui](https://github.com/patyfil/javascript-canvas/blob/main/desenhar.html)  
+<br/>
 <img src="img/template2.jpg"/>  
 
 Outros desenhos como alguns apresentados abaixo também foram criados durante o curso:  
-</br>
+<br/>
 <img width='30%' src="img/bandeira.png"/>  
 <img width='30%' src="img/creeper.png"/>  
 <img width='30%' src="img/formas.png"/>  
