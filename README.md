@@ -18,13 +18,16 @@ Outros desenhos como alguns apresentados abaixo também foram criados durante o 
 <img width='30%' src="img/grafico-barra.png"/>  
 
 Este projeto faz parte do curso de JavaScript e HTML da Alura.  
-A carga horária do curso é de 10 horas e seu conteúdo inclui:
+A carga horária do curso é de 10 horas.  
 
-- Continuação da prática de lógica com JavaScript.
-- Utilização de funções para facilitar o trabalho.
-- Conhecimento sobre Canvas para gerar desenhos e animações.
-- Revisão de conceitos importantes na programação.
-- Criação de um jogo.
+Este curso abordou os seguintes tópicos:  
+
+    Desenhando gráficos com Canvas  
+    Extraindo funções  
+    Interagindo com o usuário  
+    Movendo elementos: animações simples  
+    Nosso primeiro jogo  
+
 
 ## Tecnologias utilizadas
 
